@@ -6,9 +6,8 @@ public class Main {
         int ruble = 20; // рублей за одну милю
 
 
-
         System.out.println("Купили билет, с одного билета получили:");
         System.out.println((ticket / ruble) + " бонусных миль");
 
-}
+    }
 }
